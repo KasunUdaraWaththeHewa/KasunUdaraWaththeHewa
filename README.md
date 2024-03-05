@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kasun Udara</h1>
-<h3 align="center">A passionate fullstack developer , Generative AI & Machine Learning Enthusiast from Sri Lanka</h3>
+<h3 align="center">A passionate Fullstack Web / Mobile App developer , Generative AI & Machine Learning Enthusiast from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasunudarawaththehewa&label=Profile%20views&color=0e75b6&style=flat" alt="kasunudarawaththehewa" /> </p>
 
